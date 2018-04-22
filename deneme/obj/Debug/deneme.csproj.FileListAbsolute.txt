@@ -1,0 +1,12 @@
+c:\users\volkan\source\repos\deneme\deneme\bin\Debug\deneme.exe.config
+c:\users\volkan\source\repos\deneme\deneme\bin\Debug\deneme.exe
+c:\users\volkan\source\repos\deneme\deneme\bin\Debug\deneme.pdb
+c:\users\volkan\source\repos\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+c:\users\volkan\source\repos\deneme\deneme\obj\Debug\deneme.ProjectInstaller.resources
+c:\users\volkan\source\repos\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+c:\users\volkan\source\repos\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+c:\users\volkan\source\repos\deneme\deneme\obj\Debug\deneme.exe
+c:\users\volkan\source\repos\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Volkan\source\repos\deneme\deneme\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Volkan\source\repos\deneme\deneme\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Volkan\source\repos\deneme\deneme\obj\Debug\deneme.csproj.CopyComplete
